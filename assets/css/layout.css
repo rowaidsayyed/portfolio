@@ -1,4 +1,8 @@
 /* Basic */
+#dev{
+ font-family: 'Spicy Rice', cursive;
+}
+
 header {
   margin: 0 0 2em 0;
 }

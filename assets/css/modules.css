@@ -1600,6 +1600,8 @@ font-style: italic;
   .image.avatar48 img {
     width: 48px;
     height: 48px;
+    object-fit: cover;
+    object-position: 0px 0px;
   }
 
 .image.fit {
